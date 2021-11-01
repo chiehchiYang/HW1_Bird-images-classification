@@ -1,0 +1,8 @@
+# run pip install -r requirements.txt
+torch
+pandas
+numpy
+torchvision
+efficientnet_pytorch
+matplotlib
+Pillow
