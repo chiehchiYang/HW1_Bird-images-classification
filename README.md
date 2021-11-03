@@ -20,7 +20,10 @@ use main.ipynb to run all cells
 
 The result will save the 1.pth
 
+
 ## Test the model
+Please download the model from below link:
+https://drive.google.com/file/d/1wXYdOefjaLRo8QfEn1a2xKvVdGIYNE8O/view?usp=sharing
 
 use main.ipynb last two cell to create the answer.txt
 
